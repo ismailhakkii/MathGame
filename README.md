@@ -3,6 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+![image](https://github.com/ismailhakkii/MathGame/assets/75014646/c757df6d-9b03-4ca2-8e0e-d5d93e671951)
+![image](https://github.com/ismailhakkii/MathGame/assets/75014646/448a745b-9cd9-48f1-b588-3cf0f8fdf2cc)
+![image](https://github.com/ismailhakkii/MathGame/assets/75014646/4e2a1c50-d40a-4d9e-8baa-817d66d56c9c)
+
+
 
 This project is a starting point for a Flutter application.
 
